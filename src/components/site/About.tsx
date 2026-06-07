@@ -1,8 +1,8 @@
-import aboutImg from "@/assets/about.jpg";
+import aboutImg from "@/assets/about.jpeg";
 
 const stats = [
-  { value: "8+", label: "Lat doświadczenia" },
-  { value: "12K", label: "Zadowolonych klientów" },
+  { value: "5+", label: "Lat doświadczenia" },
+  { value: "1K+", label: "Zadowolonych klientów" },
   { value: "4.9", label: "Ocena w Booksy" },
 ];
 

@@ -1,4 +1,4 @@
-import heroImg from "@/assets/hero.jpg";
+import heroImg from "@/assets/hero.jpeg";
 import { ArrowRight, Scissors } from "lucide-react";
 
 export default function Hero() {
